@@ -7,6 +7,7 @@ const {
   loginUser,
   verifyUser,
   updatePassword,
+  loginSocialUser,
 } = require("../controllers/auth");
 
 // middlewares
@@ -26,6 +27,7 @@ const {
 
 // constants
 const TOKENTYPES = require("../utils/constants/token-types");
+const passport = require("passport");
 
 // Routes
 router.get("/users", [authenticate], getAllUsers);
@@ -36,6 +38,34 @@ router.get(
   verifyUser
 );
 router.post("/login", validateRequest(loginSchema), loginUser);
+
+router.get(
+  "/login-google",
+  passport.authenticate("google", {
+    scope: ["profile", "email"],
+    session: false,
+  })
+);
+
+router.get(
+  "/google/callback",
+  (req, res, next) => {
+    passport.authenticate(
+      "google",
+      { session: false },
+      async (err, user, info) => {
+        if (err || !user) {
+          return res.redirect("/api/auth/login/failure");
+        }
+
+        // Attach user profile to the request object
+        req.user = user;
+        next();
+      }
+    )(req, res, next);
+  },
+  loginSocialUser // Calls the controller after attaching the user profile
+);
 router.patch(
   "/update-password",
   [

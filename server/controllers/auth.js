@@ -91,10 +91,21 @@ const loginUser = async (req, res) => {
   });
 };
 
+// login social user
+const loginSocialUser = async (req, res) => {
+  const user = req.user;
+  console.log("logged in:", user);
+
+  res.status(200).send({
+    message: "logged in",
+  });
+};
+
 module.exports = {
   getAllUsers,
   registerUser,
   loginUser,
+  loginSocialUser,
   verifyUser,
   updatePassword,
 };

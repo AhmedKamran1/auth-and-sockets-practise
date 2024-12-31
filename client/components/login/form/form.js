@@ -8,7 +8,7 @@ import { userActions } from "@/store/user/userSlice";
 import ResendModal from "../resend-verification/resend-modal";
 
 // Services
-import { login } from "@/services";
+import { googleLogin, login } from "@/services";
 
 // Form
 import { useFormik } from "formik";
@@ -51,6 +51,10 @@ const LoginForm = () => {
 
   const rememberChangeHandler = (event) => {
     setRemember(event.target.checked);
+  };
+
+  const google = () => {
+    window.open("http://localhost:5001/api/auth/login-google", "_self");
   };
 
   const submitHandler = async (values) => {
@@ -156,7 +160,9 @@ const LoginForm = () => {
         <FormButton type="submit" disabled={formik.isSubmitting}>
           <Text variant="sub">Login</Text>
         </FormButton>
-
+        <FormButton className="loginButton google" onClick={google}>
+          Google
+        </FormButton>
         <Link href="/signup">
           <Box sx={{ textAlign: "center" }}>
             <Text variant="body">Not a member? </Text>

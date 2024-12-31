@@ -6067,3 +6067,756 @@
   level: 'info',
   timestamp: '2024-12-30 23:56:28'
 }
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 16:12:40'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 16:12:40'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 20:44:58'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 20:44:58'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 20:46:21'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 20:46:21'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:04:37'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:04:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:05:47'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:05:47'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:09:25'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:09:29'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:10:16'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:10:19'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:11:22'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:11:22'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:29'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:29'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:41'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:41'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:50'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:50'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:58'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:13:58'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:14:54'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:14:54'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:28:16'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:28:16'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:29:30'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:29:30'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:29:37'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:29:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:32:40'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:32:40'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:32:44'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:32:44'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:33:25'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:33:25'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 21:44:45'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 21:44:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 21:59:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 21:59:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 21:59:19'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 21:59:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 21:59:36'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:02:52'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:02:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:03:05'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:10:18'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:10:18'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:10:21'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:10:29'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:10:29'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:24'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:24'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:26'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:26'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:36'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:21:36'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:23:06'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:24:40'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:24:40'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:24:50'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:25:10'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:25:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:25:25'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:30:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:31:11'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:35:18'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:35:18'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:35:26'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:35:26'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:35:34'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:35:47'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:36:06'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:36:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:36:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:36:33'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:37:40'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:37:40'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:37:49'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:38:55'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:38:55'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:39:04'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:39:04'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:40:11'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:40:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:40:22'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:40:37'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:40:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:42:33'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:42:33'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:44:49'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:44:49'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:47:57'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:47:57'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:49:23'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:49:23'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:50:22'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:50:22'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:52:48'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:52:48'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:55:16'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:55:16'
+}
+{
+  name: 'TokenError',
+  message: 'Bad Request Bad Request',
+  code: 'invalid_grant',
+  uri: undefined,
+  status: 500,
+  level: 'error',
+  stack: 'TokenError: Bad Request\n' +
+    '    at OAuth2Strategy.parseErrorResponse (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:373:12)\n' +
+    '    at OAuth2Strategy._createOAuthError (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:420:16)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:177:45\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:196:18\n' +
+    '    at passBackControl (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:132:9)\n' +
+    '    at IncomingMessage.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:157:7)\n' +
+    '    at IncomingMessage.emit (node:events:526:35)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1359:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)',
+  timestamp: '2024-12-31 22:55:16'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 22:55:16'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 22:55:47'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 22:55:47'
+}
+{
+  level: 'error',
+  message: 'Login sessions require session support. Did you forget to use `express-session` middleware? Login sessions require session support. Did you forget to use `express-session` middleware?',
+  stack: 'Error: Login sessions require session support. Did you forget to use `express-session` middleware?\n' +
+    '    at SessionManager.logIn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\sessionmanager.js:21:33)\n' +
+    '    at req.login.req.logIn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\http\\request.js:39:26)\n' +
+    '    at strategy.success (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:265:13)\n' +
+    '    at verified (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:189:20)\n' +
+    '    at Strategy._verify (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\passport.js:16:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:205:24\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-google-oauth20\\lib\\strategy.js:122:5\n' +
+    '    at passBackControl (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:134:9)\n' +
+    '    at IncomingMessage.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:157:7)\n' +
+    '    at IncomingMessage.emit (node:events:526:35)',
+  timestamp: '2024-12-31 22:56:20'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:12:29'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:12:29'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:12:32'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:12:32'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:15:30'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:15:30'
+}
+{
+  level: 'error',
+  message: 'Login sessions require session support. Did you forget to use `express-session` middleware? Login sessions require session support. Did you forget to use `express-session` middleware?',
+  stack: 'Error: Login sessions require session support. Did you forget to use `express-session` middleware?\n' +
+    '    at SessionManager.logIn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\sessionmanager.js:21:33)\n' +
+    '    at req.login.req.logIn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\http\\request.js:39:26)\n' +
+    '    at strategy.success (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport\\lib\\middleware\\authenticate.js:265:13)\n' +
+    '    at verified (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:189:20)\n' +
+    '    at Strategy._verify (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\passport.js:34:9)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-oauth2\\lib\\strategy.js:205:24\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\passport-google-oauth20\\lib\\strategy.js:122:5\n' +
+    '    at passBackControl (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:134:9)\n' +
+    '    at IncomingMessage.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\oauth\\lib\\oauth2.js:157:7)\n' +
+    '    at IncomingMessage.emit (node:events:526:35)',
+  timestamp: '2024-12-31 23:18:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:19:30'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:19:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 23:19:49'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:20:30'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:20:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 23:20:44'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:23:03'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:23:03'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:23:56'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:23:56'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:24:03'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:24:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-31 23:24:10'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:25:00'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:25:00'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:25:28'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:25:28'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:27:37'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:27:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:31:27'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:31:27'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2024-12-31 23:32:12'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2024-12-31 23:32:12'
+}

@@ -2849,3 +2849,865 @@
   ],
   timestamp: '2024-12-30 22:25:22'
 }
+{
+  error: TypeError: passport.initialize is not a function
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:23:18)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: passport.initialize is not a function\n' +
+    'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Tue Dec 31 2024 21:09:25 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 11520,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 96452608,
+      heapTotal: 59822080,
+      heapUsed: 30497976,
+      external: 19271055,
+      arrayBuffers: 18320171
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 74634.562 },
+  trace: [
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 21:09:25'
+}
+{
+  error: TypeError: passport.initialize is not a function
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:23:18)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: passport.initialize is not a function\n' +
+    'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Tue Dec 31 2024 21:09:29 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 17004,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 96301056,
+      heapTotal: 59559936,
+      heapUsed: 30442064,
+      external: 19270973,
+      arrayBuffers: 18320089
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 74638.187 },
+  trace: [
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 21:09:29'
+}
+{
+  error: TypeError: passport.initialize is not a function
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:23:18)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: passport.initialize is not a function\n' +
+    'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Tue Dec 31 2024 21:10:16 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 4388,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 96542720,
+      heapTotal: 59559936,
+      heapUsed: 30275904,
+      external: 19271055,
+      arrayBuffers: 18320171
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 74685.359 },
+  trace: [
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 21:10:16'
+}
+{
+  error: TypeError: passport.initialize is not a function
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:23:18)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: passport.initialize is not a function\n' +
+    'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'TypeError: passport.initialize is not a function\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:23:18)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Tue Dec 31 2024 21:10:19 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 9000,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 95170560,
+      heapTotal: 58773504,
+      heapUsed: 39514184,
+      external: 20281746,
+      arrayBuffers: 19330862
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 74688.562 },
+  trace: [
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 21:10:19'
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\route.js:216:15)
+      at proto.<computed> [as post] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\index.js:521:19)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\routes\auth.js:40:8)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\routes.js:2:14),
+  level: 'error',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as post] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:40:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as post] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:40:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  exception: true,
+  date: 'Tue Dec 31 2024 21:17:09 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 4232,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 96215040,
+      heapTotal: 59297792,
+      heapUsed: 29014672,
+      external: 20692775,
+      arrayBuffers: 18303390
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 75098.312 },
+  trace: [
+    {
+      column: 15,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js',
+      function: 'Route.<computed> [as post]',
+      line: 216,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js',
+      function: 'proto.<computed> [as post]',
+      line: 521,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js',
+      function: null,
+      line: 40,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js',
+      function: null,
+      line: 2,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 21:17:09'
+}
+{
+  error: Error: Route.get() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as get] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\route.js:216:15)
+      at proto.<computed> [as get] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\index.js:521:19)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\routes\auth.js:49:8)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\routes.js:2:14),
+  level: 'error',
+  message: 'uncaughtException: Route.get() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:49:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  stack: 'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:49:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  exception: true,
+  date: 'Tue Dec 31 2024 23:31:15 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 932,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 83689472,
+      heapTotal: 59035648,
+      heapUsed: 34797600,
+      external: 19580794,
+      arrayBuffers: 18629910
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 83144.328 },
+  trace: [
+    {
+      column: 15,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js',
+      function: 'Route.<computed> [as get]',
+      line: 216,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js',
+      function: 'proto.<computed> [as get]',
+      line: 521,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 8,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js',
+      function: null,
+      line: 49,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js',
+      function: null,
+      line: 2,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 23:31:15'
+}
+{
+  error: Error: Route.get() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as get] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\route.js:216:15)
+      at proto.<computed> [as get] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\index.js:521:19)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\routes\auth.js:49:8)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\routes.js:2:14),
+  level: 'error',
+  message: 'uncaughtException: Route.get() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:49:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  stack: 'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as get] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js:49:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:2:14)',
+  exception: true,
+  date: 'Tue Dec 31 2024 23:31:21 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 10620,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 84086784,
+      heapTotal: 59035648,
+      heapUsed: 34931408,
+      external: 19592129,
+      arrayBuffers: 18641245
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 83150.546 },
+  trace: [
+    {
+      column: 15,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js',
+      function: 'Route.<computed> [as get]',
+      line: 216,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js',
+      function: 'proto.<computed> [as get]',
+      line: 521,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 8,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\auth.js',
+      function: null,
+      line: 49,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js',
+      function: null,
+      line: 2,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-31 23:31:21'
+}

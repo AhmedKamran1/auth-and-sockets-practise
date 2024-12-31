@@ -1,6 +1,8 @@
 const express = require("express");
 const { createServer } = require("node:http");
 const app = express();
+const passport = require("passport");
+const passportSetup = require("./passport");
 var cors = require("cors");
 
 // middlewares
@@ -19,6 +21,7 @@ require("./startup/routes")(app);
 require("./startup/db")();
 
 // global middlewares
+app.use(passport.initialize());
 app.use(errorMiddleware);
 
 // Create HTTP server

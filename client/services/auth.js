@@ -7,6 +7,10 @@ export const login = (payload) => {
   return api.post(`http://localhost:${port}/api/${service}/login`, payload);
 };
 
+export const googleLogin = () => {
+  return api.get(`http://localhost:${port}/api/${service}/login-google`);
+};
+
 export const signup = (payload) => {
   return api.post(`http://localhost:${port}/api/${service}/register`, payload);
 };
