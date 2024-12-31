@@ -5,6 +5,10 @@
 /client/.pnp
 /client/.pnp.js
 
+# next.js
+/client/.next/
+/client/out/
+
 # testing
 /client/coverage
 
