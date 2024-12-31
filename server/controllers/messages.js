@@ -1,7 +1,7 @@
 // Models
 const Message = require("../models/message");
 
-// Get all messages
+// Get all messages by room Id
 const getRoomMessages = async (req, res) => {
   const roomId = req.params.roomId;
 
