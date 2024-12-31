@@ -1,0 +1,174 @@
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "unhandledRejection: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  rejection: true,
+  date: 'Fri Dec 27 2024 02:32:23 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 18456,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71958528,
+      heapTotal: 33083392,
+      heapUsed: 30949272,
+      external: 19309157,
+      arrayBuffers: 18341388
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 85988.546 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:32:23'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "unhandledRejection: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  rejection: true,
+  date: 'Fri Dec 27 2024 02:34:15 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 4848,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71778304,
+      heapTotal: 33083392,
+      heapUsed: 30741080,
+      external: 19317771,
+      arrayBuffers: 18350002
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86100.671 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:34:15'
+}

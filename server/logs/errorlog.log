@@ -1,0 +1,3999 @@
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:27:33'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:27:43'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:28:20'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:28:50'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:29:28'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:29:51'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:29:53'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:29:54'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:29:59'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:30:09'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:30:20'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 02:30:26'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 02:35:58'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:16'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:18'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:51:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:52:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:53:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:54:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:55:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:42'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:56:52'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:16'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:25'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:40'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:57:55'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 15:58:25'
+}
+{
+  level: 'error',
+  message: 'data and hash arguments required data and hash arguments required',
+  stack: 'Error: data and hash arguments required\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:208:17)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:29:12\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at module.exports.promise (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:20:12)\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:204:25)\n' +
+    '    at validatePassword (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\utils\\password.js:10:32)\n' +
+    '    at loginUser (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\auth.js:75:25)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-05 15:58:38'
+}
+{
+  level: 'error',
+  message: 'data and hash arguments required data and hash arguments required',
+  stack: 'Error: data and hash arguments required\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:208:17)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:29:12\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at module.exports.promise (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:20:12)\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:204:25)\n' +
+    '    at validatePassword (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\utils\\password.js:10:32)\n' +
+    '    at loginUser (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\auth.js:75:25)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-05 15:58:42'
+}
+{
+  level: 'error',
+  message: 'data and hash arguments required data and hash arguments required',
+  stack: 'Error: data and hash arguments required\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:208:17)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:29:12\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at module.exports.promise (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\promises.js:20:12)\n' +
+    '    at Object.compare (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bcrypt\\bcrypt.js:204:25)\n' +
+    '    at validatePassword (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\utils\\password.js:10:32)\n' +
+    '    at loginUser (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\auth.js:75:25)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-05 15:58:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:00:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:00:04'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:00:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:00:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:31'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:40'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:09:55'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:16'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:21'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:26'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:31'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:36'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:46'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:51'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:10:56'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:01'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:34'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:44'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:49'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:54'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:11:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:25'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:40'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:12:55'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:10'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:25'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:13:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:14:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:15:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:16:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:17:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:18:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:19:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:20:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:21:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:22:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:23:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:24:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:25:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:26:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:27:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:28:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:28:12'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:28:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 16:28:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:17:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:17:48'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:17:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:17:54'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:17:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:04'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:19'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:24'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:29'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:34'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:51'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:18:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:21'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:33'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:51'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:19:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:21'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:33'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:51'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:20:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:35'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:41'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:47'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:21:59'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:22:05'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:22:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:22:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:22:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:22:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:23:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:23:52'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:23:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:23:58'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:08'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:13'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:18'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:23'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:33'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:45'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:51'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:24:57'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:03'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:09'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:15'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:21'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:33'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:25:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:24'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:26'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:38'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:44'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:26:56'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:08'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:26'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:38'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:44'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:27:56'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:02'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:08'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:26'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-05 17:28:48'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:20'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:30'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:31'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 18:14:35'
+}
+{
+  status: 404,
+  message: 'User does not exist User does not exist',
+  level: 'error',
+  timestamp: '2024-12-05 19:30:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 20:47:50'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 20:48:44'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 20:50:18'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 20:50:39'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-05 21:19:00'
+}
+{
+  errors: {
+    content: CastError: Cast to string failed for value "{}" (type Object) at path "content"
+        at SchemaString.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\string.js:606:11)
+        at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+        at model.Document (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:165:12)
+        at model.Model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:123:12)
+        at new model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:4758:15)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2922:18
+        at Array.map (<anonymous>)
+        at Function.create (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2911:30) {
+      stringValue: '"{}"',
+      messageFormat: undefined,
+      kind: 'string',
+      value: {},
+      path: 'content',
+      reason: null,
+      valueType: 'Object'
+    },
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required. Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1464:12)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1119:16)\n' +
+    '    at model.Document (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:165:12)\n' +
+    '    at model.Model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:123:12)\n' +
+    '    at new model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:4758:15)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2922:18\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2911:30)\n' +
+    '    at createMessage (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:20:33)',
+  timestamp: '2024-12-05 21:19:23'
+}
+{
+  errors: {
+    content: CastError: Cast to string failed for value "{}" (type Object) at path "content"
+        at SchemaString.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\string.js:606:11)
+        at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+        at model.Document (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:165:12)
+        at model.Model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:123:12)
+        at new model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:4758:15)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2922:18
+        at Array.map (<anonymous>)
+        at Function.create (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2911:30) {
+      stringValue: '"{}"',
+      messageFormat: undefined,
+      kind: 'string',
+      value: {},
+      path: 'content',
+      reason: null,
+      valueType: 'Object'
+    },
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required. Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1464:12)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1119:16)\n' +
+    '    at model.Document (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:165:12)\n' +
+    '    at model.Model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:123:12)\n' +
+    '    at new model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:4758:15)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2922:18\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2911:30)\n' +
+    '    at createMessage (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:22:33)',
+  timestamp: '2024-12-05 21:20:12'
+}
+{
+  errors: {
+    content: CastError: Cast to string failed for value "{}" (type Object) at path "content"
+        at SchemaString.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\string.js:606:11)
+        at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+        at model.Document (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:165:12)
+        at model.Model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:123:12)
+        at new model (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:4758:15)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2922:18
+        at Array.map (<anonymous>)
+        at Function.create (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\model.js:2911:30) {
+      stringValue: '"{}"',
+      messageFormat: undefined,
+      kind: 'string',
+      value: {},
+      path: 'content',
+      reason: null,
+      valueType: 'Object'
+    },
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required. Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: content: Cast to string failed for value "{}" (type Object) at path "content", sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1464:12)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1119:16)\n' +
+    '    at model.Document (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:165:12)\n' +
+    '    at model.Model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:123:12)\n' +
+    '    at new model (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:4758:15)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2922:18\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\model.js:2911:30)\n' +
+    '    at createMessage (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:22:33)',
+  timestamp: '2024-12-05 21:21:08'
+}
+{
+  errors: {
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: sentBy: Path `sentBy` is required. Message validation failed: sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-05 21:21:57'
+}
+{
+  errors: {
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: sentBy: Path `sentBy` is required. Message validation failed: sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-05 21:22:11'
+}
+{
+  errors: {
+    sentBy: ValidatorError: Path `sentBy` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sentBy` is required.',
+        type: 'required',
+        path: 'sentBy',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sentBy',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: sentBy: Path `sentBy` is required. Message validation failed: sentBy: Path `sentBy` is required.',
+  stack: 'ValidationError: Message validation failed: sentBy: Path `sentBy` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-05 21:22:35'
+}
+{
+  errors: {
+    content: ValidatorError: Path `content` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `content` is required.',
+        type: 'required',
+        path: 'content',
+        fullPath: undefined,
+        value: ''
+      },
+      kind: 'required',
+      path: 'content',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: content: Path `content` is required. Message validation failed: content: Path `content` is required.',
+  stack: 'ValidationError: Message validation failed: content: Path `content` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-05 22:04:19'
+}
+{
+  errors: {
+    room: ValidatorError: Path `room` is required.
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `room` is required.',
+        type: 'required',
+        path: 'room',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'room',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Message validation failed',
+  level: 'error',
+  message: 'Message validation failed: room: Path `room` is required. Message validation failed: room: Path `room` is required.',
+  stack: 'ValidationError: Message validation failed: room: Path `room` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-26 21:57:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:11:48'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:11:48'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:11'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:13'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:19'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:19'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:24'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:24'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:13:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:04'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:04'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:22'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:14:25'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:13'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:13'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:14'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:37'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:58'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:15:58'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:16:01'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:21:26'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-26 22:21:26'
+}
+{
+  stringValue: `"{ _id: '[object Object]' }"`,
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: { _id: '[object Object]' },
+  path: '_id',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:20:14)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:318:34)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._findOne (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2533:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'Object',
+  model: Model { Room },
+  level: 'error',
+  message: `Cast to ObjectId failed for value "{ _id: '[object Object]' }" (type Object) at path "_id" for model "Room" Cast to ObjectId failed for value "{ _id: '[object Object]' }" (type Object) at path "_id" for model "Room"`,
+  stack: `CastError: Cast to ObjectId failed for value "{ _id: '[object Object]' }" (type Object) at path "_id" for model "Room"\n` +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:318:34)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._findOne (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2533:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:21:16)',
+  timestamp: '2024-12-26 23:21:06'
+}
+{
+  errors: {
+    joinedRoom: CastError: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError"
+        at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:250:11)
+        at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+        at joinRoom (C:\Uni and Practise\html,css,js\chat-app\server\controllers\rooms.js:23:8)
+        at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+      stringValue: '"[object Object]"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: '[object Object]',
+      path: 'joinedRoom',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+          at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+          at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+          at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+          at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+          at joinRoom (C:\Uni and Practise\html,css,js\chat-app\server\controllers\rooms.js:23:8)
+          at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+      valueType: 'string'
+    },
+    name: ValidatorError: Path `name` (`Rose`) is shorter than the minimum allowed length (5).
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+        type: 'minlength',
+        minlength: 5,
+        path: 'name',
+        fullPath: undefined,
+        value: 'Rose'
+      },
+      kind: 'minlength',
+      path: 'name',
+      value: 'Rose',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5). User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+  stack: 'ValidationError: User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1464:12)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1119:16)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:23:8)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:29:17'
+}
+{
+  errors: {
+    joinedRoom: CastError: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError"
+        at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:250:11)
+        at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+        at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+        at joinRoom (C:\Uni and Practise\html,css,js\chat-app\server\controllers\rooms.js:24:8)
+        at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+      stringValue: '"[object Object]"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: '[object Object]',
+      path: 'joinedRoom',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+          at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+          at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+          at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1422:22)
+          at model.$set (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:1119:16)
+          at joinRoom (C:\Uni and Practise\html,css,js\chat-app\server\controllers\rooms.js:24:8)
+          at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+      valueType: 'string'
+    },
+    name: ValidatorError: Path `name` (`Rose`) is shorter than the minimum allowed length (5).
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+        type: 'minlength',
+        minlength: 5,
+        path: 'name',
+        fullPath: undefined,
+        value: 'Rose'
+      },
+      kind: 'minlength',
+      path: 'name',
+      value: 'Rose',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5). User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+  stack: 'ValidationError: User validation failed: joinedRoom: Cast to ObjectId failed for value "[object Object]" (type string) at path "joinedRoom" because of "BSONError", name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1464:12)\n' +
+    '    at model.$set (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:1119:16)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:24:8)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:31:20'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:24:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:31:57'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:24:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:34:49'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:26:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:35:28'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:26:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:36:08'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:26:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:37:02'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:26:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:37:26'
+}
+{
+  level: 'error',
+  message: 'Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer',
+  stack: 'BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n' +
+    '    at new ObjectId (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\bson\\lib\\bson.cjs:2055:23)\n' +
+    '    at joinRoom (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\rooms.js:24:26)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-26 23:38:30'
+}
+{
+  errors: {
+    name: ValidatorError: Path `name` (`Rose`) is shorter than the minimum allowed length (5).
+        at validate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+        type: 'minlength',
+        minlength: 5,
+        path: 'name',
+        fullPath: undefined,
+        value: 'Rose'
+      },
+      kind: 'minlength',
+      path: 'name',
+      value: 'Rose',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'User validation failed: name: Path `name` (`Rose`) is shorter than the minimum allowed length (5). User validation failed: name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).',
+  stack: 'ValidationError: User validation failed: name: Path `name` (`Rose`) is shorter than the minimum allowed length (5).\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2024-12-26 23:39:15'
+}
+{
+  status: 400,
+  message: 'Invalid Credentials Invalid Credentials',
+  level: 'error',
+  timestamp: '2024-12-26 23:47:17'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:27'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:28'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:32'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:01:53'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:03:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:03:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:03:06'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2024-12-27 00:07:03'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:07:52'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:07:52'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:07:53'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:07:53'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:07:57'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:03'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:03'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:03'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:03'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:06'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:08:11'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:09:04'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2024-12-27 00:09:07'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "unhandledRejection: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  rejection: true,
+  date: 'Fri Dec 27 2024 02:32:23 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 18456,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71958528,
+      heapTotal: 33083392,
+      heapUsed: 30949272,
+      external: 19309157,
+      arrayBuffers: 18341388
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 85988.546 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:32:23'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "unhandledRejection: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  rejection: true,
+  date: 'Fri Dec 27 2024 02:34:15 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 4848,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71778304,
+      heapTotal: 33083392,
+      heapUsed: 30741080,
+      external: 19317771,
+      arrayBuffers: 18350002
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86100.671 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:34:15'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired jwt expired',
+  expiredAt: 2024-12-29T06:47:21.000Z,
+  level: 'error',
+  stack: 'TokenExpiredError: jwt expired\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:190:21\n' +
+    '    at getSecret (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at authenticate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\middlewares\\authenticate.js:8:23)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+    '    at Route.dispatch (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2024-12-30 20:29:37'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired jwt expired',
+  expiredAt: 2024-12-29T06:47:21.000Z,
+  level: 'error',
+  stack: 'TokenExpiredError: jwt expired\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:190:21\n' +
+    '    at getSecret (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at authenticate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\middlewares\\authenticate.js:8:23)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+    '    at Route.dispatch (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2024-12-30 20:29:37'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired jwt expired',
+  expiredAt: 2024-12-30T05:55:19.000Z,
+  level: 'error',
+  stack: 'TokenExpiredError: jwt expired\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:190:21\n' +
+    '    at getSecret (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at authenticate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\middlewares\\authenticate.js:8:23)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+    '    at Route.dispatch (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2024-12-30 20:54:51'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired jwt expired',
+  expiredAt: 2024-12-30T05:55:19.000Z,
+  level: 'error',
+  stack: 'TokenExpiredError: jwt expired\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:190:21\n' +
+    '    at getSecret (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at authenticate (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\middlewares\\authenticate.js:8:23)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+    '    at Route.dispatch (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+    '    at newFn (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express-async-errors\\index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2024-12-30 20:54:51'
+}

@@ -1,0 +1,2851 @@
+{
+  error: Error: Cannot find module 'socket.io'
+  Require stack:
+  - C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js
+  - C:\Uni and Practise\html,css,js\chat-app\server\index.js
+      at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+      at Module._load (node:internal/modules/cjs/loader:922:27)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:1:20)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module 'socket.io'\n" +
+    'Require stack:\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js\n' +
+    "Error: Cannot find module 'socket.io'\n" +
+    'Require stack:\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js\n' +
+    '    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:922:27)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:1:20)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)',
+  stack: "Error: Cannot find module 'socket.io'\n" +
+    'Require stack:\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js\n' +
+    '- C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js\n' +
+    '    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:922:27)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:1:20)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)',
+  exception: true,
+  date: 'Thu Dec 05 2024 17:04:41 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 8908,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 84094976,
+      heapTotal: 60346368,
+      heapUsed: 31010472,
+      external: 19293370,
+      arrayBuffers: 18342486
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 241318.453 },
+  trace: [
+    {
+      column: 15,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._resolveFilename',
+      line: 1077,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 922,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 20,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 1,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-05 17:04:41'
+}
+{
+  error: Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.
+      at Server.attach (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\index.js:213:19)
+      at new Server (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\index.js:119:18)
+      at module.exports (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:4:14)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:28:29)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    'Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    '    at Server.attach (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:213:19)\n' +
+    '    at new Server (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:119:18)\n' +
+    '    at module.exports (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:4:14)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:28:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    '    at Server.attach (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:213:19)\n' +
+    '    at new Server (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:119:18)\n' +
+    '    at module.exports (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:4:14)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:28:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Thu Dec 05 2024 17:21:21 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 10432,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 85004288,
+      heapTotal: 60608512,
+      heapUsed: 35203688,
+      external: 19775034,
+      arrayBuffers: 18824150
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 242318.812 },
+  trace: [
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js',
+      function: 'Server.attach',
+      line: 213,
+      method: 'attach',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js',
+      function: 'new Server',
+      line: 119,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: 'module.exports',
+      line: 4,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 29,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 28,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-05 17:21:21'
+}
+{
+  error: Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.
+      at Server.attach (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\index.js:213:19)
+      at new Server (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\index.js:119:18)
+      at module.exports (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:4:14)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\index.js:28:29)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    'Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    '    at Server.attach (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:213:19)\n' +
+    '    at new Server (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:119:18)\n' +
+    '    at module.exports (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:4:14)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:28:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'Error: You are trying to attach socket.io to an express request handler function. Please pass a http.Server instance.\n' +
+    '    at Server.attach (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:213:19)\n' +
+    '    at new Server (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js:119:18)\n' +
+    '    at module.exports (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:4:14)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js:28:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Thu Dec 05 2024 17:21:28 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 17152,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 84971520,
+      heapTotal: 60870656,
+      heapUsed: 35232328,
+      external: 19775034,
+      arrayBuffers: 18824150
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 242325.015 },
+  trace: [
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js',
+      function: 'Server.attach',
+      line: 213,
+      method: 'attach',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\index.js',
+      function: 'new Server',
+      line: 119,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: 'module.exports',
+      line: 4,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 29,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js',
+      function: null,
+      line: 28,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-05 17:21:28'
+}
+{
+  error: ReferenceError: user is not defined
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:30)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Socket._onclose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:554:14)
+      at Client.onclose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\client.js:247:20)
+      at Socket.emit (node:events:526:35)
+      at Socket.onClose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\engine.io\build\socket.js:320:18)
+      at Object.onceWrapper (node:events:628:28)
+      at WebSocket.emit (node:events:514:28)
+      at WebSocket.onClose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\engine.io\build\transport.js:114:14),
+  level: 'error',
+  message: 'uncaughtException: user is not defined\n' +
+    'ReferenceError: user is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:30)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Socket._onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:554:14)\n' +
+    '    at Client.onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js:247:20)\n' +
+    '    at Socket.emit (node:events:526:35)\n' +
+    '    at Socket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js:320:18)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at WebSocket.emit (node:events:514:28)\n' +
+    '    at WebSocket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js:114:14)',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:30)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Socket._onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:554:14)\n' +
+    '    at Client.onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js:247:20)\n' +
+    '    at Socket.emit (node:events:526:35)\n' +
+    '    at Socket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js:320:18)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at WebSocket.emit (node:events:514:28)\n' +
+    '    at WebSocket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js:114:14)',
+  exception: true,
+  date: 'Thu Dec 26 2024 21:55:02 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 5380,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 86822912,
+      heapTotal: 62181376,
+      heapUsed: 37797624,
+      external: 19810793,
+      arrayBuffers: 18840716
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 69347.781 },
+  trace: [
+    {
+      column: 30,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: 'Socket._onclose',
+      line: 554,
+      method: '_onclose',
+      native: false
+    },
+    {
+      column: 20,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js',
+      function: 'Client.onclose',
+      line: 247,
+      method: 'onclose',
+      native: false
+    },
+    {
+      column: 35,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 526,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js',
+      function: 'Socket.onClose',
+      line: 320,
+      method: 'onClose',
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Object.onceWrapper',
+      line: 628,
+      method: 'onceWrapper',
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'WebSocket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js',
+      function: 'WebSocket.onClose',
+      line: 114,
+      method: 'onClose',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-26 21:55:02'
+}
+{
+  error: ReferenceError: user is not defined
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:30)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Socket._onclose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:554:14)
+      at Client.onclose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\client.js:247:20)
+      at Socket.emit (node:events:526:35)
+      at Socket.onClose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\engine.io\build\socket.js:320:18)
+      at Object.onceWrapper (node:events:628:28)
+      at WebSocket.emit (node:events:514:28)
+      at WebSocket.onClose (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\engine.io\build\transport.js:114:14),
+  level: 'error',
+  message: 'uncaughtException: user is not defined\n' +
+    'ReferenceError: user is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:30)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Socket._onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:554:14)\n' +
+    '    at Client.onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js:247:20)\n' +
+    '    at Socket.emit (node:events:526:35)\n' +
+    '    at Socket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js:320:18)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at WebSocket.emit (node:events:514:28)\n' +
+    '    at WebSocket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js:114:14)',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:30)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Socket._onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:554:14)\n' +
+    '    at Client.onclose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js:247:20)\n' +
+    '    at Socket.emit (node:events:526:35)\n' +
+    '    at Socket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js:320:18)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at WebSocket.emit (node:events:514:28)\n' +
+    '    at WebSocket.onClose (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js:114:14)',
+  exception: true,
+  date: 'Thu Dec 26 2024 21:55:21 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 16080,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 86835200,
+      heapTotal: 62181376,
+      heapUsed: 37860376,
+      external: 19810793,
+      arrayBuffers: 18840716
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 69366.171 },
+  trace: [
+    {
+      column: 30,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: 'Socket._onclose',
+      line: 554,
+      method: '_onclose',
+      native: false
+    },
+    {
+      column: 20,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\client.js',
+      function: 'Client.onclose',
+      line: 247,
+      method: 'onclose',
+      native: false
+    },
+    {
+      column: 35,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 526,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\socket.js',
+      function: 'Socket.onClose',
+      line: 320,
+      method: 'onClose',
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Object.onceWrapper',
+      line: 628,
+      method: 'onceWrapper',
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'WebSocket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\engine.io\\build\\transport.js',
+      function: 'WebSocket.onClose',
+      line: 114,
+      method: 'onClose',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-26 21:55:21'
+}
+{
+  error: Error: Route.patch() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as patch] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\route.js:216:15)
+      at proto.<computed> [as patch] (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\express\lib\router\index.js:521:19)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\routes\room.js:21:8)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\routes.js:5:14),
+  level: 'error',
+  message: 'uncaughtException: Route.patch() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.patch() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as patch] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as patch] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\room.js:21:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:5:14)',
+  stack: 'Error: Route.patch() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as patch] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js:216:15)\n' +
+    '    at proto.<computed> [as patch] (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js:521:19)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\room.js:21:8)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js:5:14)',
+  exception: true,
+  date: 'Thu Dec 26 2024 23:28:23 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 17068,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 82632704,
+      heapTotal: 60608512,
+      heapUsed: 31141840,
+      external: 19284781,
+      arrayBuffers: 18333897
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 74948.625 },
+  trace: [
+    {
+      column: 15,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\route.js',
+      function: 'Route.<computed> [as patch]',
+      line: 216,
+      method: '<computed> [as patch]',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\express\\lib\\router\\index.js',
+      function: 'proto.<computed> [as patch]',
+      line: 521,
+      method: '<computed> [as patch]',
+      native: false
+    },
+    {
+      column: 8,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\room.js',
+      function: null,
+      line: 21,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\routes.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-12-26 23:28:23'
+}
+{
+  error: ReferenceError: getAllMessages is not defined
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\controllers\messages.js:30:3)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+      at Module.load (node:internal/modules/cjs/loader:1119:32)
+      at Module._load (node:internal/modules/cjs/loader:960:12)
+      at Module.require (node:internal/modules/cjs/loader:1143:19)
+      at require (node:internal/modules/cjs/helpers:110:18)
+      at Object.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\routes\message.js:4:43)
+      at Module._compile (node:internal/modules/cjs/loader:1256:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1310:10),
+  level: 'error',
+  message: 'uncaughtException: getAllMessages is not defined\n' +
+    'ReferenceError: getAllMessages is not defined\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:30:3)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\message.js:4:43)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)',
+  stack: 'ReferenceError: getAllMessages is not defined\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js:30:3)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1119:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:960:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1143:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\message.js:4:43)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)',
+  exception: true,
+  date: 'Fri Dec 27 2024 00:00:19 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 14876,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 82939904,
+      heapTotal: 60608512,
+      heapUsed: 30779240,
+      external: 19284781,
+      arrayBuffers: 18333897
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 76863.843 },
+  trace: [
+    {
+      column: 3,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\controllers\\messages.js',
+      function: null,
+      line: 30,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1119,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 960,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1143,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 110,
+      method: null,
+      native: false
+    },
+    {
+      column: 43,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\routes\\message.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1256,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1310,
+      method: '.js',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 00:00:19'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:36:55 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 3192,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71270400,
+      heapTotal: 32559104,
+      heapUsed: 29741344,
+      external: 19276226,
+      arrayBuffers: 18308457
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86260.203 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:36:55'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:38:56 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 19352,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71663616,
+      heapTotal: 32034816,
+      heapUsed: 29805888,
+      external: 19363321,
+      arrayBuffers: 18395552
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86381.625 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:38:56'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:40:22 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 17548,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71057408,
+      heapTotal: 32296960,
+      heapUsed: 29749120,
+      external: 19284221,
+      arrayBuffers: 18316452
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86467.828 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:40:22'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:45:58 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 18768,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 71159808,
+      heapTotal: 32296960,
+      heapUsed: 29688664,
+      external: 19292402,
+      arrayBuffers: 18324633
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86802.937 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:45:58'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:37:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:37:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:47:37 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 20292,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 72081408,
+      heapTotal: 35704832,
+      heapUsed: 29544816,
+      external: 19283957,
+      arrayBuffers: 18316188
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 86902.25 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 37,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:47:37'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:38:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:55:33 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 15056,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 72048640,
+      heapTotal: 33083392,
+      heapUsed: 30374232,
+      external: 19292611,
+      arrayBuffers: 18324842
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 87378.671 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:55:33'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:38:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 02:56:57 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 18752,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 70828032,
+      heapTotal: 32296960,
+      heapUsed: 30130440,
+      external: 19309515,
+      arrayBuffers: 18341746
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 87462.078 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 02:56:57'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:38:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:38:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 03:05:05 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 7052,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 72065024,
+      heapTotal: 32559104,
+      heapUsed: 30584856,
+      external: 19368691,
+      arrayBuffers: 18400922
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 87950.5 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 03:05:05'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 03:17:20 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 18696,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 95842304,
+      heapTotal: 62443520,
+      heapUsed: 38335432,
+      external: 19724375,
+      arrayBuffers: 18754298
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 88685.312 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 03:17:20'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'emit')
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:36:34)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'emit')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'emit')\n" +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:36:34)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 03:17:48 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 19156,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 91668480,
+      heapTotal: 63229952,
+      heapUsed: 42358920,
+      external: 19940534,
+      arrayBuffers: 18970457
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 88713.796 },
+  trace: [
+    {
+      column: 34,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 03:17:48'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:39)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 19:48:14 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 19824,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 69173248,
+      heapTotal: 30986240,
+      heapUsed: 28071248,
+      external: 19275926,
+      arrayBuffers: 18308157
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 148140.343 },
+  trace: [
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 19:48:14'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:39)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 19:48:57 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 11592,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 92270592,
+      heapTotal: 61132800,
+      heapUsed: 33731264,
+      external: 19662815,
+      arrayBuffers: 18692738
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 148183.078 },
+  trace: [
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 19:48:57'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:39)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 19:49:40 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 3208,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 87498752,
+      heapTotal: 62181376,
+      heapUsed: 38016168,
+      external: 19811530,
+      arrayBuffers: 18841453
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 148226.562 },
+  trace: [
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 19:49:40'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:39)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:39)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 19:50:25 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 10144,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 92225536,
+      heapTotal: 61132800,
+      heapUsed: 33755568,
+      external: 19595252,
+      arrayBuffers: 18625175
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 148271 },
+  trace: [
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 19:50:25'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:49)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:49)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:49)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 20:19:05 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 1492,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 72499200,
+      heapTotal: 33345536,
+      heapUsed: 29447552,
+      external: 19285246,
+      arrayBuffers: 18317477
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 149991.25 },
+  trace: [
+    {
+      column: 49,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 20:19:05'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:49)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:49)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:49)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 20:19:32 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 8148,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 92778496,
+      heapTotal: 61132800,
+      heapUsed: 33872128,
+      external: 19652810,
+      arrayBuffers: 18682733
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 150018.343 },
+  trace: [
+    {
+      column: 49,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 20:19:32'
+}
+{
+  error: TypeError: Cannot read properties of undefined (reading 'id')
+      at Namespace.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:27:14)
+      at Namespace.emit (node:events:514:28)
+      at Namespace.emitReserved (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:56:22)
+      at Namespace._doConnect (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:276:14)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\namespace.js:238:22
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: "uncaughtException: Cannot read properties of undefined (reading 'id')\n" +
+    "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:14)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: "TypeError: Cannot read properties of undefined (reading 'id')\n" +
+    '    at Namespace.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:27:14)\n' +
+    '    at Namespace.emit (node:events:514:28)\n' +
+    '    at Namespace.emitReserved (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:56:22)\n' +
+    '    at Namespace._doConnect (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:276:14)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js:238:22\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Fri Dec 27 2024 20:20:41 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 14068,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 70746112,
+      heapTotal: 31772672,
+      heapUsed: 28689592,
+      external: 19276870,
+      arrayBuffers: 18309101
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 150087.64 },
+  trace: [
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 27,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Namespace.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Namespace.emitReserved',
+      line: 56,
+      method: 'emitReserved',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: 'Namespace._doConnect',
+      line: 276,
+      method: '_doConnect',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\namespace.js',
+      function: null,
+      line: 238,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-27 20:20:41'
+}
+{
+  error: ReferenceError: name is not defined
+      at C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:47:36
+      at Array.filter (<anonymous>)
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:46:55)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: 'uncaughtException: name is not defined\n' +
+    'ReferenceError: name is not defined\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:47:36\n' +
+    '    at Array.filter (<anonymous>)\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:46:55)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: 'ReferenceError: name is not defined\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:47:36\n' +
+    '    at Array.filter (<anonymous>)\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:46:55)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Mon Dec 30 2024 22:23:51 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 2272,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 88502272,
+      heapTotal: 62181376,
+      heapUsed: 38263560,
+      external: 19812206,
+      arrayBuffers: 18842129
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 16753.531 },
+  trace: [
+    {
+      column: 36,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 47,
+      method: null,
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'Array.filter',
+      line: null,
+      method: 'filter',
+      native: false
+    },
+    {
+      column: 55,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 46,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-30 22:23:51'
+}
+{
+  error: ReferenceError: typingUsersList is not defined
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:54:63)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: 'uncaughtException: typingUsersList is not defined\n' +
+    'ReferenceError: typingUsersList is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:54:63)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: 'ReferenceError: typingUsersList is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:54:63)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Mon Dec 30 2024 22:24:38 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 17428,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 87756800,
+      heapTotal: 61919232,
+      heapUsed: 37857800,
+      external: 19802900,
+      arrayBuffers: 18832823
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 16800.843 },
+  trace: [
+    {
+      column: 63,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 54,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-30 22:24:38'
+}
+{
+  error: ReferenceError: typingUsersList is not defined
+      at Socket.<anonymous> (C:\Uni and Practise\html,css,js\chat-app\server\startup\sockets.js:55:63)
+      at Socket.emit (node:events:514:28)
+      at Socket.emitUntyped (C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\typed-events.js:69:22)
+      at C:\Uni and Practise\html,css,js\chat-app\server\node_modules\socket.io\dist\socket.js:697:39
+      at process.processTicksAndRejections (node:internal/process/task_queues:77:11),
+  level: 'error',
+  message: 'uncaughtException: typingUsersList is not defined\n' +
+    'ReferenceError: typingUsersList is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:55:63)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  stack: 'ReferenceError: typingUsersList is not defined\n' +
+    '    at Socket.<anonymous> (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js:55:63)\n' +
+    '    at Socket.emit (node:events:514:28)\n' +
+    '    at Socket.emitUntyped (C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  exception: true,
+  date: 'Mon Dec 30 2024 22:25:22 GMT+0500 (Pakistan Standard Time)',
+  process: {
+    pid: 2528,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v18.17.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\index.js'
+    ],
+    memoryUsage: {
+      rss: 88129536,
+      heapTotal: 61919232,
+      heapUsed: 37808984,
+      external: 19810866,
+      arrayBuffers: 18840789
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 16845.218 },
+  trace: [
+    {
+      column: 63,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\startup\\sockets.js',
+      function: null,
+      line: 55,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Socket.emit',
+      line: 514,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 22,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\typed-events.js',
+      function: 'Socket.emitUntyped',
+      line: 69,
+      method: 'emitUntyped',
+      native: false
+    },
+    {
+      column: 39,
+      file: 'C:\\Uni and Practise\\html,css,js\\chat-app\\server\\node_modules\\socket.io\\dist\\socket.js',
+      function: null,
+      line: 697,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 77,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: '2024-12-30 22:25:22'
+}
