@@ -6820,3 +6820,617 @@
   level: 'info',
   timestamp: '2024-12-31 23:32:12'
 }
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 01:03:03'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 01:03:03'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 01:03:09'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 01:03:09'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 17:24:07'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 17:24:07'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2025-01-01 17:26:48'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 18:54:00'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 18:54:00'
+}
+{
+  status: 404,
+  message: 'Route not found Route not found',
+  level: 'error',
+  timestamp: '2025-01-01 18:54:35'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:25:37'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:25:37'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:25:47'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:25:47'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:26:38'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:26:38'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:32:54'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:32:54'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:37:55'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:37:55'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:30'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:30'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:45'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:45'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:48'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:48'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:54'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:39:54'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:41:39'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:41:39'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:42:06'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:42:06'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:44:26'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:44:26'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:47:55'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:47:55'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:48:29'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:48:29'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:48:34'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:48:34'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:35'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:35'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:45'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:45'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:50'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:50:50'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 19:51:03'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 19:51:03'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:29:18'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:29:18'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:29:26'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:29:26'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:35:08'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:35:08'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:35:13'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:35:13'
+}
+{
+  errors: {
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'User validation failed: email: Path `email` is required. User validation failed: email: Path `email` is required.',
+  stack: 'ValidationError: User validation failed: email: Path `email` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2025-01-01 20:36:04'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:36:56'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:36:56'
+}
+{
+  errors: {
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1349:7)
+        at C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\document.js:3004:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'User validation failed: email: Path `email` is required. User validation failed: email: Path `email` is required.',
+  stack: 'ValidationError: User validation failed: email: Path `email` is required.\n' +
+    '    at Document.invalidate (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\document.js:3219:32)\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\document.js:3012:17\n' +
+    '    at C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  timestamp: '2025-01-01 20:37:08'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:38:10'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:38:10'
+}
+{
+  status: 404,
+  message: 'This account is socially registered and has no password set This account is socially registered and has no password set',
+  level: 'error',
+  timestamp: '2025-01-01 20:38:49'
+}
+{
+  status: 404,
+  message: 'This account is socially registered and has no password set This account is socially registered and has no password set',
+  level: 'error',
+  timestamp: '2025-01-01 20:38:52'
+}
+{
+  status: 404,
+  message: 'This account is socially registered and has no password set This account is socially registered and has no password set',
+  level: 'error',
+  timestamp: '2025-01-01 20:38:54'
+}
+{
+  status: 404,
+  message: 'This account is socially registered and has no password set This account is socially registered and has no password set',
+  level: 'error',
+  timestamp: '2025-01-01 20:38:58'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:43:08'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:43:08'
+}
+{
+  stringValue: '"undefined"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "undefined" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 20:44:51'
+}
+{
+  message: 'Listening on PORT: 5001 !',
+  level: 'info',
+  timestamp: '2025-01-01 20:45:58'
+}
+{
+  message: 'Connected to MongoDB',
+  level: 'info',
+  timestamp: '2025-01-01 20:45:58'
+}
+{
+  stringValue: '"null"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'null',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 20:46:20'
+}
+{
+  stringValue: '"null"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'null',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 21:46:12'
+}
+{
+  stringValue: '"null"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'null',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 21:46:35'
+}
+{
+  stringValue: '"null"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'null',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 21:46:51'
+}
+{
+  stringValue: '"null"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'null',
+  path: 'room',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\bson\lib\bson.cjs:2055:23)
+      at castObjectId (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schema\objectid.js:248:12)
+      at SchemaType.applySetters (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1219:12)
+      at SchemaType.castForQuery (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\schematype.js:1633:15)
+      at cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\cast.js:389:32)
+      at Query.cast (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4927:12)
+      at Query._castConditions (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2237:10)
+      at model.Query._find (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:2263:8)
+      at model.Query.exec (C:\Uni and Practise\html,css,js\auth-and-sockets-practise\server\node_modules\mongoose\lib\query.js:4447:28),
+  valueType: 'string',
+  model: Model { Message },
+  level: 'error',
+  message: 'Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message" Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"',
+  stack: 'CastError: Cast to ObjectId failed for value "null" (type string) at path "room" for model "Message"\n' +
+    '    at ObjectId.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n' +
+    '    at SchemaType.applySetters (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\schematype.js:1633:15)\n' +
+    '    at cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\cast.js:389:32)\n' +
+    '    at Query.cast (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4927:12)\n' +
+    '    at Query._castConditions (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2237:10)\n' +
+    '    at model.Query._find (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:2263:8)\n' +
+    '    at model.Query.exec (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\node_modules\\mongoose\\lib\\query.js:4447:28)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async getRoomMessages (C:\\Uni and Practise\\html,css,js\\auth-and-sockets-practise\\server\\controllers\\messages.js:8:20)',
+  timestamp: '2025-01-01 21:46:59'
+}

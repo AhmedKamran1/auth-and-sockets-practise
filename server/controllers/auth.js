@@ -74,8 +74,13 @@ const loginUser = async (req, res) => {
     "+password"
   );
   if (!user) throw NotFoundError("User does not exist");
+  if (!user.isLocal)
+    throw NotFoundError(
+      "This account is socially registered and has no password set"
+    );
   const isValid = await validatePassword(credentials.password, user.password);
   if (!isValid) throw BadRequestError("Invalid Credentials");
+
   if (!user.isVerified)
     throw ForbiddenRequestError("User is not verified! Verify user to login.");
   const token = user.generateAuthToken();
@@ -93,12 +98,24 @@ const loginUser = async (req, res) => {
 
 // login social user
 const loginSocialUser = async (req, res) => {
-  const user = req.user;
-  console.log("logged in:", user);
+  const userDetails = req.user;
 
-  res.status(200).send({
-    message: "logged in",
-  });
+  let user = await User.findOne({ email: userDetails.email });
+  if (!user) {
+    const payload = {
+      ...userDetails,
+      isLocal: false,
+      isVerified: true,
+    };
+    console.log(payload);
+    user = await User.create(payload);
+  }
+
+  const token = user.generateAuthToken();
+
+  res.redirect(
+    `http://localhost:3000/social-login-successfull?token=${token}&id=${user._id}&name=${user.name}&email=${user.email}&joinedRoom=${user.joinedRoom}`
+  );
 };
 
 module.exports = {

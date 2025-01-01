@@ -12,24 +12,24 @@ const userSchema = new mongoose.Schema({
   email: {
     type: String,
     required: true,
-    minlength: 5,
-    maxlength: 255,
     unique: true,
   },
   password: {
     type: String,
-    required: true,
-    minlength: 5,
-    maxlength: 1024,
     select: false,
   },
   isVerified: {
     type: Boolean,
     default: false,
   },
+  isLocal: {
+    type: Boolean,
+    default: true,
+  },
   joinedRoom: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "Room",
+    default: null,
   },
 });
 

@@ -1,23 +1,16 @@
-import { createSlice } from '@reduxjs/toolkit';
-import { HYDRATE } from 'next-redux-wrapper';
-import { getUser } from './userActions';
+import { createSlice } from "@reduxjs/toolkit";
+import { HYDRATE } from "next-redux-wrapper";
+import { getUser } from "./userActions";
 
 const initialState = {
   id: null,
   name: null,
   email: null,
-  slug: null,
-  role: null,
-  avatar: null,
-  mapSlug: null,
-  location: {
-    coordinates: [null, null], // [0] is longitude, [1] is latitude
-    country: null,
-  },
+  joinedRoom: null,
 };
 
 const userSlice = createSlice({
-  name: 'user',
+  name: "user",
   initialState,
   reducers: {
     logout: () => initialState,

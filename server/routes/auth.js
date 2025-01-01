@@ -47,6 +47,12 @@ router.get(
   })
 );
 
+router.get("/login/failed", (req, res) => {
+  res.status(401).send({
+    message: "Failed to authenticate",
+  });
+});
+
 router.get(
   "/google/callback",
   (req, res, next) => {
@@ -58,13 +64,17 @@ router.get(
           return res.redirect("/api/auth/login/failure");
         }
 
-        // Attach user profile to the request object
-        req.user = user;
+        const userDetails = {
+          name: user.displayName,
+          email: user.emails[0].value,
+        };
+
+        req.user = userDetails;
         next();
       }
     )(req, res, next);
   },
-  loginSocialUser // Calls the controller after attaching the user profile
+  loginSocialUser
 );
 router.patch(
   "/update-password",
